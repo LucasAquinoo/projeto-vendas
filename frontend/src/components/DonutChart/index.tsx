@@ -1,6 +1,6 @@
 import axios from 'axios';
 import Chart from 'react-apexcharts';
-import { useEffect, useState } from 'react-router/node_modules/@types/react';
+import { useEffect, useState } from 'react';
 import { SaleSum } from 'types/sale';
 import { BASE_URL } from 'utils/requests';
 
